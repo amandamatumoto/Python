@@ -1,2 +1,2 @@
 # Python
-Aprendendo python
+Aprendendo python e registrando o progresso.
